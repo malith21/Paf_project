@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8458B1,100:A0D3B8&height=200&section=header&text=Smart%20Campus%20Operations%20Hub&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Spring%20Boot%20%7C%20React%20%7C%20MongoDB%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn"/>
+
 # 🏫 Smart Campus Operations Hub
 
 **A comprehensive, production-grade management system designed to streamline campus facilities, streamline bookings, track maintenance requests, and deliver real-time notifications.**
@@ -86,6 +88,9 @@ The platform has been custom-styled without heavy reliance on CSS frameworks, de
 * **Componentry:** Fully responsive collapsible sidebars, floating modal overlays, state-colored badge identifiers, and simulated glass overlays featuring CSS backdrop-filters.
 
 <br>
+
 <div align="center">
   <i>Developed for University Project Submission.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0D3B8,100:8458B1&height=100&section=footer"/>
 </div>
